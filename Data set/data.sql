@@ -1,0 +1,5 @@
+create schema A_comprehensive_crash_analysis
+
+use A_comprehensive_crash_analysis
+
+source * from crash_analysis
